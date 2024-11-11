@@ -1,1 +1,2 @@
 Ceci est le premier commit a 19h50
+Ceci est le commit RELEASE_2 a 19h57
